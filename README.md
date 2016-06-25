@@ -1,4 +1,4 @@
-# Inofficial Littlstar Java SDK
+# Unofficial Littlstar Java SDK
 
 ---
 ## Introduction
